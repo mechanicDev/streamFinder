@@ -146,7 +146,7 @@ class Login_Signup extends React.Component {
         <h1>StreamFinder</h1>
         <div>
           <h3>Sign In</h3>
-          <form id="">
+          <form id="signup-input-container">
             <input
               id="stream-input-at-signup"
               type="text"
